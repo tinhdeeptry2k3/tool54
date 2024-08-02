@@ -1,3 +1,6 @@
 {
-  "MarketingTelegram": "https://telepro.top/tool/get_s.php?id=15&key={0}"
+  "MarketingTelegram": {
+    "version": "1.0.0",
+    "url": "https://telepro.top/tool/get_s.php?id=15&key={0}"
+  }
 }
